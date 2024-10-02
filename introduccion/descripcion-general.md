@@ -1,2 +1,0 @@
-# Descripción general
-
