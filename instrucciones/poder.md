@@ -16,7 +16,7 @@ layout:
 
 Super Héroes obtienen **Poder** de su interior para realizar hazañas increíbles. Sin embargo, este Power no es un recurso inagotable y debe ser generado mediante pura fuerza de voluntad.
 
-<figure><img src="../.gitbook/assets/Power.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Poder_Piero.webp" alt=""><figcaption></figcaption></figure>
 
 ***
 

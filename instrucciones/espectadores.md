@@ -16,7 +16,7 @@ layout:
 
 **Los civiles** representan personajes clave que los Superhéroes deben **rescatar** de los zombis. Consulta la página 14 para conocer las reglas completas sobre el rescate de un civil. Una vez rescatado, un civil se convierte en un **civil escoltado** (ver a la derecha). Antes de ser rescatados, los civiles tienen numerosas reglas especiales que se describen a continuación.
 
-<figure><img src="../.gitbook/assets/imagen_2024-10-04_092514995.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Civiles_Piero.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
